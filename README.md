@@ -1,5 +1,5 @@
-# EDAProject
-Credit Score Analysis and Classification for Paisabazaar
+
+# Credit Score Analysis and Classification for Paisabazaar
 
 
 This project performs Exploratory Data Analysis (EDA) on a credit score dataset to identify key factors affecting customer credit scores. It includes data cleaning, preprocessing, univariate, bivariate, and multivariate analysis, along with visualizations and business insights.
